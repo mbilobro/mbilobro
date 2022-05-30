@@ -1,4 +1,4 @@
-### Hello! I'm Matheus Bilobrovec, full-stack developer at City Hall of Ponta Grossa
+### Hello! I'm Matheus Bilobrovec, full-stack developer at City Hall of Ponta Grossa and student of Computer Engineering at UEPG
 
 <div align="center">
   <a href="https://github.com/mbilobro">
