@@ -17,7 +17,7 @@
   <img align="center" alt="mbilobro-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
     
   
-  <img align="right" alt="mbilobro-pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C5622AQG2Q39efawoBA/feedshare-shrink_1280/0/1604278008090?e=1656547200&v=beta&t=hYfVpER4TSSKMtvVe8dy8_bFNs8X-e-5hHiksyuP1Lw">
+  <img align="right" alt="mbilobro-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/60276395?v=4">
 </div>
   
   ##
