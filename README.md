@@ -1,4 +1,4 @@
-# Hello! I'm Matheus Bilobrovec, full-stack developer by KMM and Computer Engineer by UEPG, 
+# Hello! I'm Matheus Bilobrovec, full-stack developer at KMM and Computer Engineer by UEPG, 
 ### Currently I'm working mainly with Oracle PL/SQL, Java and Delphi 6, but I love to work with web development
 <div align="center">
   <a href="https://github.com/mbilobro">
