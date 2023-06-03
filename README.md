@@ -1,4 +1,4 @@
-### Hello! I'm Matheus Bilobrovec, full-stack developer at KMM and student of Computer Engineering at UEPG
+### Hello! I'm Matheus Bilobrovec, full-stack developer at KMM and Computer Engineer by UEPG
 
 <div align="center">
   <a href="https://github.com/mbilobro">
