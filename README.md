@@ -1,5 +1,5 @@
-### Hello! I'm Matheus Bilobrovec, full-stack developer at KMM and Computer Engineer by UEPG
-
+### Hello! I'm Matheus Bilobrovec, full-stack developer by KMM and Computer Engineer by UEPG, 
+## Currently I'm working mainly with Oracle PL/SQL, Java and Delphi 6, but I love to work with web development
 <div align="center">
   <a href="https://github.com/mbilobro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbilobro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -7,6 +7,8 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <img align="center" alt="mbilobro-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="center" alt="mbilobro-Oracle" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="mbilobro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="mbilobro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="mbilobro-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
